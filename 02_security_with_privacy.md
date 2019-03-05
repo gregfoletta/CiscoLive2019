@@ -12,6 +12,11 @@ Presenter: Jatin Sachdeva
     * Using DNS requests / responses as a control point (Cisco pitch OpenDNS for this).
     * Continuing to use endpoint protection to control the point before data is encrypted.
 
+# Further Reading
+
+* [TLS 1.3 Impact on Network-Based Security](https://tools.ietf.org/html/draft-camwinget-tls-use-cases-00)
+* [Encrypted SNI](https://blog.cloudflare.com/encrypted-sni/)
+
 # Presentation Notes
 
 ## Encrypted Threats

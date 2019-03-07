@@ -1,4 +1,4 @@
-*Note: sessions with a * denote raw, uncurated notes.
+*Note: sessions with a * denote raw, uncurated notes.*
 
 # Day One
 * [Securing Next-Gen Workloads*](01_securing_nextgen_workloads.md)
